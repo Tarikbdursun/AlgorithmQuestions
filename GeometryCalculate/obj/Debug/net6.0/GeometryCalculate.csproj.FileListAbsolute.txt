@@ -1,0 +1,15 @@
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/bin/Debug/net6.0/GeometryCalculate
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/bin/Debug/net6.0/GeometryCalculate.deps.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/bin/Debug/net6.0/GeometryCalculate.runtimeconfig.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/bin/Debug/net6.0/GeometryCalculate.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/bin/Debug/net6.0/GeometryCalculate.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/GeometryCalculate.csproj.AssemblyReference.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/GeometryCalculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/GeometryCalculate.AssemblyInfoInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/GeometryCalculate.AssemblyInfo.cs
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/GeometryCalculate.csproj.CoreCompileInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/GeometryCalculate.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/refint/GeometryCalculate.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/GeometryCalculate.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/GeometryCalculate.genruntimeconfig.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/GeometryCalculate/obj/Debug/net6.0/ref/GeometryCalculate.dll
