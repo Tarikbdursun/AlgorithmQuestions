@@ -1,0 +1,15 @@
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/bin/Debug/net6.0/ReverseString
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/bin/Debug/net6.0/ReverseString.deps.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/bin/Debug/net6.0/ReverseString.runtimeconfig.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/bin/Debug/net6.0/ReverseString.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/bin/Debug/net6.0/ReverseString.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ReverseString.csproj.AssemblyReference.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ReverseString.AssemblyInfoInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ReverseString.AssemblyInfo.cs
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ReverseString.csproj.CoreCompileInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ReverseString.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/refint/ReverseString.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ReverseString.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ReverseString.genruntimeconfig.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/ReverseString/obj/Debug/net6.0/ref/ReverseString.dll
