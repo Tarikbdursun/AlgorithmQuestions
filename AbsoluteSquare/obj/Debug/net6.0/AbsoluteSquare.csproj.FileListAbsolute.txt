@@ -1,0 +1,15 @@
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/bin/Debug/net6.0/AbsoluteSquare
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/bin/Debug/net6.0/AbsoluteSquare.deps.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/bin/Debug/net6.0/AbsoluteSquare.runtimeconfig.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/bin/Debug/net6.0/AbsoluteSquare.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/bin/Debug/net6.0/AbsoluteSquare.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/AbsoluteSquare.csproj.AssemblyReference.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/AbsoluteSquare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/AbsoluteSquare.AssemblyInfoInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/AbsoluteSquare.AssemblyInfo.cs
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/AbsoluteSquare.csproj.CoreCompileInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/AbsoluteSquare.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/refint/AbsoluteSquare.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/AbsoluteSquare.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/AbsoluteSquare.genruntimeconfig.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/AbsoluteSquare/obj/Debug/net6.0/ref/AbsoluteSquare.dll
