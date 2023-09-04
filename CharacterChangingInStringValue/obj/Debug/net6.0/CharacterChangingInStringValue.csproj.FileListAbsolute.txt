@@ -1,0 +1,15 @@
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/bin/Debug/net6.0/CharacterChangingInStringValue
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/bin/Debug/net6.0/CharacterChangingInStringValue.deps.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/bin/Debug/net6.0/CharacterChangingInStringValue.runtimeconfig.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/bin/Debug/net6.0/CharacterChangingInStringValue.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/bin/Debug/net6.0/CharacterChangingInStringValue.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/CharacterChangingInStringValue.csproj.AssemblyReference.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/CharacterChangingInStringValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/CharacterChangingInStringValue.AssemblyInfoInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/CharacterChangingInStringValue.AssemblyInfo.cs
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/CharacterChangingInStringValue.csproj.CoreCompileInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/CharacterChangingInStringValue.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/refint/CharacterChangingInStringValue.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/CharacterChangingInStringValue.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/CharacterChangingInStringValue.genruntimeconfig.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/CharacterChangingInStringValue/obj/Debug/net6.0/ref/CharacterChangingInStringValue.dll
