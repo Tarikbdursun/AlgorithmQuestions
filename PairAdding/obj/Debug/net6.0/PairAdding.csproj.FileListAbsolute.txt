@@ -1,0 +1,15 @@
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/bin/Debug/net6.0/PairAdding
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/bin/Debug/net6.0/PairAdding.deps.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/bin/Debug/net6.0/PairAdding.runtimeconfig.json
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/bin/Debug/net6.0/PairAdding.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/bin/Debug/net6.0/PairAdding.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/PairAdding.csproj.AssemblyReference.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/PairAdding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/PairAdding.AssemblyInfoInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/PairAdding.AssemblyInfo.cs
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/PairAdding.csproj.CoreCompileInputs.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/PairAdding.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/refint/PairAdding.dll
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/PairAdding.pdb
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/PairAdding.genruntimeconfig.cache
+/Users/tarikbugradursun/Level Up Rings/Assets/QuestionsSolution/PairAdding/obj/Debug/net6.0/ref/PairAdding.dll
